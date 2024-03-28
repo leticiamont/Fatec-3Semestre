@@ -1,4 +1,4 @@
 Tarefa Prática sobre o Uso do Redis, segue imagem do projeto compilado:
 
 
-![Redis_tarefa](https://github.com/nekaevi/NoSQL/assets/145376029/44ed443b-0f6d-4394-bc8e-aaf90b991c70)
+![Redis_tarefa](https://teams.microsoft.com/l/message/48:notes/1711589232313?context=%7B%22contextType%22%3A%22chat%22%7D).
